@@ -1,0 +1,30 @@
+#Media {
+    text-align: center;
+    padding: 20px;
+}
+
+#logo{
+    width: 132px;
+}
+
+#navbarGloboTodo{
+    float: left;
+    margin: 0;
+    left: 34%;
+    transform: translatex(-50%);
+    position: relative;
+}
+
+.iconosP{
+    font-size: 2.4em;
+}
+
+.linkEstilo{
+    color: black;
+}
+
+.productos{
+    display: inline-block;
+    margin-right: 12px;
+    margin-top: 12PX;
+}
